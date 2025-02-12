@@ -1,0 +1,15 @@
+{
+  "default_labels": {
+    "environment": "development",
+    "application": "gitlab-scrapper"
+  },
+  "groups": [
+    {
+      "id": "9970",
+      "project_count": {
+        "include_subgroups": true
+      },
+      "member_count": {}
+    }
+  ]
+}

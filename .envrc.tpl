@@ -1,0 +1,2 @@
+export GITLAB_ACCESS_TOKEN=your_gitlab_access_token
+export PUSHGATEWAY_URL=http://localhost:9091
