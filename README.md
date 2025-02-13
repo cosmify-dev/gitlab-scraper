@@ -1,4 +1,4 @@
-# GitLab Scrapper
+# GitLab Scraper
 
 ## Setup
 
